@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Large third-party 3D models: download from the URLs in data/public_model/README.md
+data/public_model/*.zip
+data/public_model/extracted/
+data/public_model/profiles/
+data/public_model/case/
+data/public_model/inspection/
+
+# Submission and internal files
+manuscript/*.pdf
+manuscript/*.docx
+manuscript/manuscript_submission.*
+manuscript/manuscript_author*
+manuscript/manuscript_with_author*
+manuscript/*checklist*
+manuscript/title_page*
+manuscript/cover_letter*
+STATUS.md
+PLAN.md
+docs/reviewer_risk_memo.md
+docs/journal_fit.md
+docs/PROJECT_README_INTERNAL.md
+.sketchfab_token
+results/run.log

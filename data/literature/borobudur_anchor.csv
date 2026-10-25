@@ -1,0 +1,5 @@
+source,quantity,value,unit,note
+Balai Konservasi Borobudur (BKB),wear per 50 million visitors,18,mm,projection widely cited by BKB (Bramantara 2015); average visitor mass 60 kg
+Balai Konservasi Borobudur (BKB),implied kappa_eff,3.6e-7,mm per visitor,18 mm / 5e7 visitors; average over the staircase surface, not a single point
+Balai Konservasi Borobudur (BKB),east side wear 1984-2007,22,mm,reported field wear
+Balai Konservasi Borobudur (BKB),south/west/north wear 1984-2007,up to 46,mm,reported field wear

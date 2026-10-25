@@ -1,0 +1,111 @@
+{
+  "n": 16,
+  "fem_mean": 45.12125,
+  "exp_mean": 45.49875,
+  "fem_sd": 11.884490663605796,
+  "exp_sd": 18.27962650056067,
+  "mean_bias_fem_minus_exp": -0.3775000000000006,
+  "rmse": 7.6891091811730705,
+  "mape_pct": 14.227885066907248,
+  "pearson_r": 0.9493331940623682,
+  "pearson_p": 2.009297647534141e-08,
+  "spearman_rho": 0.961764705882353,
+  "ols_fem_on_exp": {
+    "slope": 0.6172085343833054,
+    "intercept": 17.03903319622759,
+    "r2": 0.9012335133486575,
+    "p": 2.0092976475342e-08,
+    "se_slope": 0.054607719587160465
+  },
+  "ols_resid_sd": 3.8660457412428424,
+  "within_temperature_load_trends": [
+    {
+      "temperature_C": 25,
+      "n": 4,
+      "spearman_load_vs_fem": -0.39999999999999997,
+      "spearman_load_vs_exp": -0.19999999999999998,
+      "slope_fem_per_100N": -1.858000000000001,
+      "slope_exp_per_100N": -2.0386666666666704
+    },
+    {
+      "temperature_C": 75,
+      "n": 4,
+      "spearman_load_vs_fem": -0.7999999999999999,
+      "spearman_load_vs_exp": -0.39999999999999997,
+      "slope_fem_per_100N": -2.4859999999999984,
+      "slope_exp_per_100N": -5.451999999999998
+    },
+    {
+      "temperature_C": 125,
+      "n": 4,
+      "spearman_load_vs_fem": -0.7999999999999999,
+      "spearman_load_vs_exp": -1.0,
+      "slope_fem_per_100N": -3.4059999999999944,
+      "slope_exp_per_100N": -6.960666666666661
+    },
+    {
+      "temperature_C": 175,
+      "n": 4,
+      "spearman_load_vs_fem": -1.0,
+      "spearman_load_vs_exp": -0.7999999999999999,
+      "slope_fem_per_100N": -4.228666666666666,
+      "slope_exp_per_100N": -5.059333333333338
+    }
+  ],
+  "mannwhitney": {
+    "U": 130.0,
+    "p_two_sided": 0.9549169069449939,
+    "u_max_for_n16_n16": 256.0,
+    "u_null_expected": 128.0,
+    "note": "A non-significant test means the two samples are indistinguishable, not that the model is accurate."
+  },
+  "ratio_fem_over_exp": {
+    "mean": 1.0545154710219125,
+    "sd": 0.1856682313635666,
+    "min": 0.7615366596392598,
+    "max": 1.5116153430578065,
+    "cv_pct": 17.606970828378532
+  },
+  "within_load_temperature_trends": [
+    {
+      "payload_N": 50,
+      "n": 4,
+      "spearman_temp_vs_fem": 0.7999999999999999,
+      "spearman_temp_vs_exp": 0.39999999999999997
+    },
+    {
+      "payload_N": 200,
+      "n": 4,
+      "spearman_temp_vs_fem": 0.7999999999999999,
+      "spearman_temp_vs_exp": 0.7999999999999999
+    },
+    {
+      "payload_N": 350,
+      "n": 4,
+      "spearman_temp_vs_fem": 0.7999999999999999,
+      "spearman_temp_vs_exp": 0.7999999999999999
+    },
+    {
+      "payload_N": 500,
+      "n": 4,
+      "spearman_temp_vs_fem": 0.7999999999999999,
+      "spearman_temp_vs_exp": 0.7999999999999999
+    }
+  ],
+  "paired_diff": {
+    "mean": -0.3775000000000006,
+    "sd": 7.9317013727615,
+    "shapiro_p": 0.016310520406328223,
+    "wilcoxon_p": 0.596588134765625,
+    "bland_altman_loa": [
+      -15.923634690612541,
+      15.168634690612539
+    ]
+  },
+  "interpretation": {
+    "source_found": false,
+    "archard_consistent": false,
+    "usable_as_stair_validation": false,
+    "recommendation": "Remove Table 2 from the manuscript. Do not describe it as staircase validation. If a primary source exists, cite the exact experiment, material, and loading regime; only then use it as a material calibration dataset, never as a stair-use validation."
+  }
+}

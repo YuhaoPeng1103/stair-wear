@@ -1,0 +1,7 @@
+stair_id,role,install_year,service_days,mean_daily_footfall,footfall_rel_sd,material,hardness_leeb,lanes,scan_accuracy_mm,notes
+C1,calibration,2010,5000,40.0,0.1,marble,300,2,0.1,SYNTHETIC DEMO — not field data
+C2,calibration,2012,4500,111.11111111111111,0.1,granite,600,2,0.1,SYNTHETIC DEMO — not field data
+C3,calibration,2008,6000,166.66666666666666,0.1,terrazzo,300,2,0.1,SYNTHETIC DEMO — not field data
+A1,application,1900,40000,12.5,0.1,limestone,300,1,0.2,SYNTHETIC DEMO — not field data
+A2,application,1850,60000,16.666666666666668,0.1,marble,300,2,0.2,SYNTHETIC DEMO — not field data
+A3,application,1920,35000,57.142857142857146,0.1,granite,600,2,0.2,SYNTHETIC DEMO — not field data

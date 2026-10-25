@@ -1,0 +1,46 @@
+{
+  "runtime_s": 291.9,
+  "geometry": {
+    "width_mm": 300.0,
+    "n_points": 151,
+    "lane_spacing_mm": 65.0,
+    "direction_offset_mm": 36.0,
+    "foot_sigma_mm": 22.0,
+    "pressure_sigma_mm": 10.0
+  },
+  "truth": {
+    "log10_N": 6.0,
+    "delta": 0.3,
+    "log10_kappa": -6.0,
+    "lanes": 2,
+    "env_mm": 0.0,
+    "quad_mm": 0.0
+  },
+  "priors": {
+    "free": {
+      "logk_mean": null,
+      "logk_sd": 0.15
+    },
+    "weak": {
+      "logk_mean": -6.0,
+      "logk_sd": 0.2
+    },
+    "strong": {
+      "logk_mean": -6.0,
+      "logk_sd": 0.05
+    }
+  },
+  "n_rep_identifiability": 12,
+  "files": [
+    "calibration.csv",
+    "direction.csv",
+    "identifiability.csv",
+    "lanes.csv",
+    "noise.csv",
+    "profiles_identifiability.npz",
+    "reference.csv",
+    "run.log",
+    "slices_identifiability.npz",
+    "summary.json"
+  ]
+}

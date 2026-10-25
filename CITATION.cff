@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or the synthetic data, please cite the manuscript."
+title: "Code and synthetic data for: What worn stair treads can and cannot tell"
+authors:
+  - family-names: Peng
+    given-names: Yuhao
+    orcid: "https://orcid.org/0009-0004-3302-9050"
+    affiliation: "School of Mathematics and Physics, China University of Geosciences (Wuhan), Wuhan 430074, China"
+year: 2026
+license: MIT
+repository-code: "https://github.com/YuhaoPeng1103/stair-wear"
+keywords:
+  - stair wear
+  - Archard wear law
+  - identifiability
+  - calibration
+  - heritage

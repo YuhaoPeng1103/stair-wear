@@ -1,0 +1,31 @@
+Third-party 3D models used in this project
+==========================================
+
+The repository does not redistribute the 3D model archives. They were used only
+to produce the derived profiles and the real-geometry stress test in Section 3.4
+of the manuscript.
+
+1. "Roman marble stairs" by chabychab
+   https://sketchfab.com/3d-models/roman-marble-stairs-3a26ffc0044a4ca4a41d244f2f528a5a
+   License: CC BY 4.0
+
+2. "Paestum old stairs" by chabychab
+   https://sketchfab.com/3d-models/paestum-old-stairs-0c2cf3f7048343368d14e2c798721abd
+   License: CC BY 4.0
+
+3. "Stair over an arch - Umm Qais Museum" by SJoudeh
+   https://sketchfab.com/3d-models/stair-over-an-arch-umm-qais-museum-d088a03863ad40cabbb17326e4efc0d4
+   License: CC BY 4.0
+
+Required attribution
+--------------------
+This work is based on "Roman marble stairs" and "Paestum old stairs" by
+chabychab, and "Stair over an arch - Umm Qais Museum" by SJoudeh, all licensed
+under CC BY 4.0. The models are not redistributed here; users must download
+them from the URLs above and comply with the license.
+
+Synthetic data and code
+-----------------------
+Code: MIT License (see LICENSE).
+Synthetic data and derived figures: CC BY 4.0, with attribution to this
+repository and the manuscript.
