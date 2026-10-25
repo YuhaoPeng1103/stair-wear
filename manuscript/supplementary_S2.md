@@ -133,6 +133,6 @@ input table is `data/literature/borobudur_anchor.csv`.
 
 ## S2.10 Licence and citation
 
-The code and synthetic data are released under the MIT licence (to be confirmed
-by the corresponding author). If you use the code, cite the manuscript and the
-repository DOI (to be assigned at acceptance).
+The code and synthetic data are released under the MIT licence. If you use the
+code, cite the manuscript and the GitHub repository:
+https://github.com/YuhaoPeng1103/stair-wear.

@@ -243,7 +243,7 @@ Worn stairs are often described as a clock. This paper shows that the clock has 
 
 ## Declarations
 
-**Data availability.** The synthetic data, code, and figure scripts are provided as Supplementary Material S2 and are available from the corresponding author on reasonable request. The field protocol is provided as Supplementary Material S1. No field data were collected for this study. The public 3D models used in Section 3.4 are CC BY 4.0: "Roman marble stairs" and "Paestum old stairs" by chabychab, and "Stair over an arch - Umm Qais Museum" by SJoudeh (Sketchfab; URLs in Supplementary Material S2).
+**Data availability.** The code and synthetic data that support the findings of this study are openly available in GitHub at https://github.com/YuhaoPeng1103/stair-wear. The field protocol is provided as Supplementary Material S1. No field data were collected for this study. The public 3D models used in Section 3.4 are CC BY 4.0: "Roman marble stairs" and "Paestum old stairs" by chabychab, and "Stair over an arch - Umm Qais Museum" by SJoudeh (Sketchfab; URLs in Supplementary Material S2).
 
 **Ethics.** Not applicable. The study uses synthetic data and published 3D models; no human participants or sensitive sites were involved. Field work under the protocol requires site permission and will follow the guidelines of the participating heritage authority.
 
