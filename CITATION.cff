@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or the synthetic data, please cite the manuscript."
-title: "Code and synthetic data for: What worn stair treads can and cannot tell"
+title: "Code and synthetic data for: What a worn surface profile can identify"
 authors:
   - family-names: Peng
     given-names: Yuhao

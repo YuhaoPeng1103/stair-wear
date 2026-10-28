@@ -2,7 +2,7 @@
 
 Code and synthetic data for the manuscript:
 
-> Peng, Y. (2026). *What worn stair treads can and cannot tell: identifiability, calibration, and measurement design for wear-based inspection of historic stairs.* Manuscript under review.
+> Peng, Y. (2026). *What a worn surface profile can identify: identifiability, calibration, and measurement uncertainty for wear-based inference.* Manuscript under review.
 
 The study asks what a worn stair profile can identify. In an Archard-type wear
 model the number of footfalls `N` and the wear coefficient `kappa` enter only
